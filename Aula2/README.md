@@ -20,3 +20,12 @@ O curso será focado em semântica, morfologia e Sintaxe
 
 
 Córpus --> Sinônimo de Dataset em PLN
+
+---
+## Colab
+### Macetes
+
+- **Ctrl + Enter**: Executar célula
+- **Ctrl + F9**: Executar todas as células 
+- **Ctrl + M + B**: Criar uma nova célula
+- **Alt + Enter**: Executar a célula atual e criar uma nova
