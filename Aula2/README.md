@@ -1,4 +1,4 @@
-# Anotações da aula 1
+# Anotações da Aula 2
 ## Diferença entre Linguagem e Língua
 - Linguagem: capacidade de troca de informações pelos humanos, pode conter o verbal ou não
 - Língua: código de comunicação utilizado por uma sociedade
